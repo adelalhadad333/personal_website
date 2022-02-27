@@ -83,7 +83,7 @@ header .main-nav li a {
     font-size: 1.1em;
     font-weight: 500;
     transition: 0.7s;
-    padding: 12px 0;
+    padding: 14px 0;
 }
 header .main-nav li a:hover {
     color: #601cfc;
@@ -123,8 +123,8 @@ header .main-nav li a:hover {
     visibility: visible;
 }
 .main .home-img img {
-    width: 365px;
-    height: 375px;
+    width: 376px;
+    height: 376px;
     border-radius: 50%;
 }
 .main .main-content p {
@@ -279,7 +279,7 @@ header .main-nav li a:hover {
 }
 .projects .project-info .project-title .more-details {
     color: var(--main-color);
-    font-size: 0.7em;
+    font-size: 0.6em;
 }
 .projects .project-info .project-title .more-details:hover {
     color: #601cfc;
@@ -298,6 +298,13 @@ header .main-nav li a:hover {
 }
 .contact .info p {
     font-size: 1.5em;
+}
+.contact .info a {
+    font-size: 1.3em;
+    color: #3a6cf4;
+}
+.contact .info a:hover {
+    color: #0c48ee;
 }
 /* End Contact */
 /* Start Footer */
